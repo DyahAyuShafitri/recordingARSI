@@ -1,0 +1,111 @@
+Percakapan dibuka. 1 pesan belum dibaca.
+
+Lewatkan ke konten
+Menggunakan Gmail dengan pembaca layar
+1 dari 2.329
+Transaction details
+Kotak Masuk
+Imam Achmad Hambali
+Lampiran
+10.08 (0 menit yang lalu)
+kepada saya
+
+Pesan ini mungkin berbahaya
+Pesan seperti ini pernah digunakan untuk mencuri informasi pribadi. Jangan mengklik link, mendownload lampiran, atau membalas pesan dengan menyertakan informasi pribadi.
+
+Laporkan spamKelihatannya aman
+ Satu lampiran
+  •  Dipindai oleh Gmail
+Download untuk lampiran ini dinonaktifkan. Email ini telah diidentifikasikan sebagai phishing. Jika ingin mendownloadnya dan Anda memercayai pesan ini, klik "Kelihatannya aman" pada banner di atas.
+URL: https://prodapis.axa-mandiri.co.id/prd/id/IB/PA/gateway_service/bvt/pa/smart/api/v1/document/submit-form
+Method: POST
+Protocol: http/1.1
+Status: Complete
+Response: 503 
+SSL: Yes
+
+Request time: Fri Oct 17 10:04:55 GMT+07:00 2025
+Response time: Fri Oct 17 10:04:55 GMT+07:00 2025
+Duration: 47 ms
+
+Request size: 707 B
+Response size: 164 B
+Total size: 871 B
+
+---------- Request ----------
+
+x-dynatrace: MT_3_1_839422319_55-0_3d32f0bf-8579-4121-877e-441b50873e52_215_480_332
+Access-Token: iwd1A7yJxvAv8Am39spDgKa6oir9EhOu268HkhkB5Jg=
+User-Agent: distributor.portal.amfs.kpmg 1.0 Android-35-REL-samsung-SM-S911B-dm1q
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InQyZDhXOGgyVHF4T09uSDIxdVh3YyJ9.eyJpc3MiOiJodHRwczovL2IyYnNzby5heGEuY28uaWQvIiwic3ViIjoiYXV0aDB8NjY0ZDU1ZGYxYWZhNzM4ODViMmFlNWI1IiwiYXVkIjpbImF4YS1pZC1hbXMiLCJodHRwczovL2F4YS1pZC1iMmIuYXUuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTc2MDY3MDAwNSwiZXhwIjoxNzYwNjg0NDA1LCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIG9mZmxpbmVfYWNjZXNzIiwiYXpwIjoiZ0REZ1RUNnZpOVZWUllCY3BnbFYwMkJXc1pmTENBa1YifQ.jPuoycCkhJm47CCh7k3rskd8OnNkgelf0r41Un3-rruAOU-zvCXEJfQJyb24b1AAQ_S9hLn3cDXeTRnc26zFxVcUECP9N22X3R_1rVxzSLQC1owYXwtYYT4s7oMAzJINjvv0Wnle68orrX9pBgzgCZLjaNyQIWthCzt422DQ3s14_zk3KS1Q9ZiBqXBPRToX0H9JUecf6UqdyvGGdwDPCd-GJgnwH9CvlHPwTqDPLWeLjvpiTbZe88LwVwKusER0wTodd-CF4DKyaeDp_Ml2X_nfbn5svSLPIZJAm1Swj_MiCuslALKODUXv46bBLaG7Fwx2eI7-YGQefV3DouVJqw
+auth-esg: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InQyZDhXOGgyVHF4T09uSDIxdVh3YyJ9.eyJpc3MiOiJodHRwczovL2IyYnNzby5heGEuY28uaWQvIiwic3ViIjoiYXV0aDB8NjY0ZDU1ZGYxYWZhNzM4ODViMmFlNWI1IiwiYXVkIjpbImF4YS1pZC1hbXMiLCJodHRwczovL2F4YS1pZC1iMmIuYXUuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTc2MDY3MDAwNSwiZXhwIjoxNzYwNjg0NDA1LCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIG9mZmxpbmVfYWNjZXNzIiwiYXpwIjoiZ0REZ1RUNnZpOVZWUllCY3BnbFYwMkJXc1pmTENBa1YifQ.jPuoycCkhJm47CCh7k3rskd8OnNkgelf0r41Un3-rruAOU-zvCXEJfQJyb24b1AAQ_S9hLn3cDXeTRnc26zFxVcUECP9N22X3R_1rVxzSLQC1owYXwtYYT4s7oMAzJINjvv0Wnle68orrX9pBgzgCZLjaNyQIWthCzt422DQ3s14_zk3KS1Q9ZiBqXBPRToX0H9JUecf6UqdyvGGdwDPCd-GJgnwH9CvlHPwTqDPLWeLjvpiTbZe88LwVwKusER0wTodd-CF4DKyaeDp_Ml2X_nfbn5svSLPIZJAm1Swj_MiCuslALKODUXv46bBLaG7Fwx2eI7-YGQefV3DouVJqw
+Request-Id: f4182b07-29f9-4f68-8be9-d6e279b62f77
+x-axa-env: UAT
+x-axa-requestingchannel: IAAS
+regid: fXnYDdUTTuOv8KVvzV-o-a:APA91bHEKS7k4_a4wwKloTYoAnKXPmh0c7WpXeQQrXqk6Ki8GsXBfZZ_YvVriALWYKI_W8_5vvPfNUJHNaLjt8S-K11lygqq3YYxRltlfg9dFPizTMWR0gE
+Time-Zone: WIB
+date: 2025/10/17 10:04:55
+datetime: 2025/10/17 10:04:55
+X-Geo: NEIp+PZDj208ZyithPvS+aH53F8W9vr3MuSdG7TGzdg=
+
+{
+  "categoryId": 2,
+  "desc": "",
+  "document": [
+    {
+      "isPayment": false,
+      "signDate": "2025-10-17T07:00:00",
+      "documentTypeId": "3",
+      "uploadId": "fdb5f4f7-bc3e-44af-9bf3-2e8a62640fae"
+    },
+    {
+      "isPayment": false,
+      "documentTypeId": "20",
+      "uploadId": "5d00bfbd-679a-4393-b8a1-87fffeec40d4"
+    },
+    {
+      "isPayment": false,
+      "documentTypeId": "21",
+      "uploadId": "d5f0908c-9e91-4025-875d-87cc16be677d"
+    },
+    {
+      "isPayment": false,
+      "documentTypeId": "17",
+      "uploadId": "5257c9a2-1a81-45bf-8e8d-192903180328"
+    },
+    {
+      "isPayment": false,
+      "documentTypeId": "86",
+      "uploadId": "a414e257-ce61-4376-a4da-6add476d3643"
+    }
+  ],
+  "fundCode": [],
+  "headerId": "",
+  "leadId": "",
+  "polNumber1": "510-4426068",
+  "salesCode": "880004",
+  "source": "BANCA",
+  "statusId": 2,
+  "subCategoryId": 10,
+  "timezone": "+07:00",
+  "transactionId": 41
+}
+
+---------- Response ----------
+
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Type: application/json
+Date: Fri, 17 Oct 2025 03:04:54 GMT
+Connection: close
+Server: server
+
+{
+  "timestamp": "2025-10-17T03:04:55.002+00:00",
+  "path": "/bvt/pa/smart/api/v1/document/submit-form",
+  "status": 503,
+  "error": "Service Unavailable",
+  "requestId": "d65f2c7b-1"
+}
+transaction.txt
+Menampilkan transaction.txt.
